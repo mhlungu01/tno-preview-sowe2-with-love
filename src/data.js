@@ -1,0 +1,2 @@
+export const business = {"phone":"072 650 4744","location":"Naledi, Soweto","palette":["#164b46","#d6b66c","#edf2e9"],"sub":"A welcoming starting point for discovering places, people and stories around Soweto.","archetype":"Immersive travel","title":"Meet Soweto through local eyes.","industry":"Tour operator","photo":"https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1800&q=85","email":"mokone.tshepo@gmail.com","name":"SOWE2 WITH Love"};
+
